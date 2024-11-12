@@ -3,7 +3,7 @@ name: Deploy Vite Project to GitHub Pages
 on:
   push:
     branches:
-      - main  # Set this to your main branch or the branch you want to deploy from
+      - main  # Ensure this is the branch you want to deploy from
 
 jobs:
   deploy:
@@ -15,7 +15,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v2
         with:
-          node-version: '18'  # Ensure the version matches your project
+          node-version: '18'  # Ensure this matches your project
 
       - name: Install dependencies
         run: npm install

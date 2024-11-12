@@ -1,0 +1,11 @@
+Model Information:
+* title:	The revenge of the traditional toys
+* source:	https://sketchfab.com/3d-models/the-revenge-of-the-traditional-toys-d2dd1ee7948343308cd732c665ef1337
+* author:	Bastien Genbrugge (https://sketchfab.com/bastienBGR)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The revenge of the traditional toys" (https://sketchfab.com/3d-models/the-revenge-of-the-traditional-toys-d2dd1ee7948343308cd732c665ef1337) by Bastien Genbrugge (https://sketchfab.com/bastienBGR) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
